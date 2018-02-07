@@ -1,0 +1,23 @@
+h1 {color: #7cc9b7; 
+	background-color:#4a4a4a;
+	text-align: center;
+	font-family: : helvetica;
+}
+
+body { color:#4a4a4a;
+	text-align: center;
+	font-family: helvetica; }
+
+#slogan {
+	font-style: italic;
+	text-align: center;
+}
+
+/*
+#aboutme { width: 800px;
+}
+*/
+
+ul {list-style-type: none;}
+
+a{color: #7cc9b7}
