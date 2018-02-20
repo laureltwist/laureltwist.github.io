@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville|Nanum+Myeongjo|Open+Sans|Petit+Formal+Script|Roboto+Slab);
+
+h1 {font-family: libre Baskerville;
+	color: #7cc9b7; 
+	background-color:#4a4a4a;
+	text-align: center;
+	position: absolute;
+	left:20px;
+	font-size: 65px;
+	padding: 8px;
+}
+
+body { color:#4a4a4a;
+	text-align: center;
+	font-family: open Sans; 
+margin:0px;}
+
+
+header {
+    background-color: #FFED74;
+}
+
+nav {
+    background-color: #E8C66A;
+}
+
+footer {
+    background-color: #FF957E;
+}
+
+aside {
+    background-color: #FFC675;
+}
+
+article {
+    background-color: #E89C6C;
+}
+
+
+
+#slogan {
+	font-family: open sans;
+	padding: 8px;
+	font-style: italic;
+	text-align: center;
+	position: absolute;
+    top: 100px;
+    color: #515151;
+    left: 20px;
+    font-size: 20px;
+}
+
+#image {width:100%;
+}
+
+ 
+#productoffering {font-size: 20px;}
+
+#aboutme { margin-left: 90px;
+	margin-right: 90px;
+
+}
+
+
+ul {list-style-type: none;}
+
+a{color: #7cc9b7;
+text-decoration: none;}
