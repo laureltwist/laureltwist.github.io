@@ -39,6 +39,15 @@ h1 {
 
 }
 
+.products { 
+width:33%; 
+float:left;
+}
+	
+.product-image {
+	float:left;
+}
+
 
 ul {list-style-type: none;}
 

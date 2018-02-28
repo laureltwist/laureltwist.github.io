@@ -1,0 +1,125 @@
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville|Nanum+Myeongjo|Open+Sans|Petit+Formal+Script|Roboto+Slab);
+* {margin:0;padding:0;box-sizing:border-box;}
+body { 
+	color:#4a4a4a;
+	font-family: open Sans; 
+}
+	
+	
+}
+h1 {
+	font-family: libre Baskerville;
+	color: #7cc9b7;
+	/* background-color:#4a4a4a; */
+	font-size: 26px;
+}
+
+
+#intro {
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding: 0;
+
+}
+
+#intro-header {
+	float:left;
+}
+
+#intro-description {
+	float:left;
+}
+#product-list {
+    background-color: #ffffff;
+    border: none;
+    padding: 20px;
+}
+
+.header {
+	text-align: center;
+}
+
+.header-logo {
+	width: 300px;
+}
+
+#left {
+    background-color: #ffffff;
+    border: none;
+    padding: 20px;
+    float: left;
+    width: 20%;
+}
+
+#right {
+    background-color: #ffffff;
+    border: none;
+    padding: 20px;
+    float: right;   
+      width: 60%;
+
+}
+
+.products { 
+width:33%; 
+float:left;
+padding: 8px;
+}
+	
+.product-image {
+	width: 100%;
+}
+
+#product-list-header {
+	text-align: center;
+	
+}
+
+.product-name { 
+	text-align:center;
+}
+
+
+.cta {
+  border-radius: 20px;
+  color: #ffffff;
+  font-size: 20px;
+  background: #7cc9b7;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.cta:hover {
+  background: #96e6d2;
+  text-decoration: none;
+}
+
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#productoffering {font-size: 20px;}
+
+#aboutme { margin-left: 90px;
+	margin-right: 90px;
+
+}
+
+
+ul {list-style-type: none;}
+
+a{
+	color: #7cc9b7;
+	text-decoration: none;
+}
+
+footer {
+	padding: 15px;
+	background-color: #cccccc;
+}
